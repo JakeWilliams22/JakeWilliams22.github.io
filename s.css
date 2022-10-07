@@ -1,0 +1,17 @@
+body {
+    font-family: 'Tahoma';
+    color: 'blue';
+}
+
+/* div {
+    float:left
+}
+
+p {
+    float:left
+} */
+
+#content {
+    margin: auto;
+    width: 1000px
+}
